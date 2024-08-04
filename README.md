@@ -17,5 +17,5 @@ Download the files and simply open the run.bat file. The application should get 
 
 
 ### CREDITS:
-* [Jaykumaran R]([url](https://medium.com/@jaykumaran2217/real-time-head-pose-estimation-facemesh-with-mediapipe-and-opencv-a-comprehensive-guide-b63a2f40b7c6)). for his work which laid out how to get started with the usage of mediapipe.
-* [Asadullah Dal]([url](https://aiphile.hashnode.dev/blinking-detection-and-counter-mediapipe-eye-tracking-part-1-and-2)) for tutorials on tracking blinks through height-to-width ratios 
+* [Jaykumaran R.](https://medium.com/@jaykumaran2217/real-time-head-pose-estimation-facemesh-with-mediapipe-and-opencv-a-comprehensive-guide-b63a2f40b7c6) for his tutorial on how to get started with the usage of mediapipe for face / head-tilt tracking.
+* [Asadullah Dal](https://aiphile.hashnode.dev/blinking-detection-and-counter-mediapipe-eye-tracking-part-1-and-2) for his tutorial on tracking blinks through height-to-width ratios representing distances between eye landmarks 
