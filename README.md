@@ -1,5 +1,5 @@
 # Autonomouse
-This project fully automates the role of a mouse by replacing it exclusively with head movements and blinks.
+This application fully automates the role of a mouse by replacing it exclusively with head movements and blinks.
 
 ## Guide to Usage
 For maximum functionality, ensure that your surroundings are well-lit and that your device camera is as close as possible to being level with your eyes.
