@@ -14,3 +14,8 @@ Download the files and simply open the run.bat file. The application should get 
 ### Improvements Needed
 * mouse (in)sensitivity can be irritating and requires further tuning. Mouse may sometimes be too slow when moving across a page but too quick when trying to move by a few pixels.
 * current command durations (blinks) are too long - far slower than using a handheld mouse. Working on incorporating winks for right-click. However, these are significantly harder to register.   
+
+
+### CREDITS:
+* [Jaykumaran R]([url](https://medium.com/@jaykumaran2217/real-time-head-pose-estimation-facemesh-with-mediapipe-and-opencv-a-comprehensive-guide-b63a2f40b7c6)). for his work which laid out how to get started with the usage of mediapipe.
+* [Asadullah Dal]([url](https://aiphile.hashnode.dev/blinking-detection-and-counter-mediapipe-eye-tracking-part-1-and-2)) for tutorials on tracking blinks through height-to-width ratios 
